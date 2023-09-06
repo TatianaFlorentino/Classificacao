@@ -3,13 +3,14 @@
 
 **Exemplo**: um classificador que utilize dados não observados de um cliente e classifique-o como cliente ou não-cliente, famoso churn de cliente.
  
-* [Índice](#índice)
+
 * [Descrição do Projeto](#descrição-do-projeto)  
 * [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
+* [Etapas](#Etapas)
 * [Conclusão](#conclusão)
 
   ## Descrição do projeto 
@@ -39,6 +40,10 @@ Descrição do projeto de classificação, onde se tem um cliente saindo das pla
 Você pode [acessar o código fonte do projeto da funcionalidade 1](https://github.com/TatianaFlorentino/Classificacao) 
 
 ## Tecnologias-utilizadas
+
+* pandas
+* numpy
+* Google Colab
 <a href="https://upload.wikimedia.org/wikipedia/commons/c/c3/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="androidStudio" width="40" height="40"/> 
 </a>![image](https://github.com/TatianaFlorentino/Classificacao/assets/41309689/13d6998e-8c41-4a99-b6d0-d76a5c8cda94)</a>
 <a>![image](https://github.com/TatianaFlorentino/Classificacao/assets/41309689/c4f4ae65-dd9a-42cc-84df-b0886772195e)</a>
@@ -46,22 +51,23 @@ Você pode [acessar o código fonte do projeto da funcionalidade 1](https://gith
 ## Pessoas Contribuidoras e desenvolvedora 
 | [<img src="https://avatars.githubusercontent.com/tatianaflorentino?v=4" width=115><br><sub>Tatiana Florentino</sub>](https://github.com/TatianaFlorentino) | 
 
-## Conclusão
+## Etapas
 
-Esse projeto passou pelas etapas 
+Esse projeto passou pelas etapas abaixo
 
-2.  Teve uma estrutura de solução no github 
-3.  Teve uma mensuração e estrutura de um problema 
-4.  A base de dados foi coletada sem prejudicar nenhuma empresa basseado nas regras LGPD
-4.  Limpeza de dados 
-5.  Ocorreu análise exploratórias de dados
-6.  Modelagem de dados foi aplicada
-7.  Treinamento dos algooritmos de machine learning 
-8.  Avaliação da performance dos algoritmos.
-9.  Tradução da perfomance em resultados financeiros 
-10. Publicação do modelo em produção na Cloud da Google
-11. Storytelling dos resultados ( comunicada no github)
-12. Caso a implemntação ocorra em produção haverá um ganho financeiro se a solução fosse implementada.
+* 1.  Aprendizado tácito, famosa teoria sobre o machine learning, classificação
+* 2.  Teve uma estrutura de solução no github 
+* 3.  Teve uma mensuração e estrutura de um problema 
+* 4.  A base de dados foi coletada sem prejudicar nenhuma empresa basseado nas regras LGPD
+* 4.  Limpeza de dados 
+* 5.  Ocorreu análise exploratórias de dados
+* 6.  Modelagem de dados foi aplicada
+* 7.  Treinamento dos algooritmos de machine learning 
+* 8.  Avaliação da performance dos algoritmos.
+* 9.  Tradução da perfomance em resultados financeiros 
+* 10. Publicação do modelo em produção na Cloud da Google
+* 11. Storytelling dos resultados ( comunicada no github)
+* 12. Caso a implemntação ocorra em produção haverá um ganho financeiro se a solução fosse implementada.
 
 
 
