@@ -16,7 +16,7 @@
 
 <p align="justify">
  Projeto desse estudo da disciplina Datascience aplicação dos conceitos de classificação - desafio aprendido na Alura, USP-ESALQ.  Atualmente,  “Taxa de churn”, ou simplesmente “churn”, algo que preocupa diversos empresários indepente do segmento que representa a taxa de evasão da base de clientes. Em serviços como Spotify, Netflix, GloboPlay, Assinaturas de cursos online, bancários, etc representaria a taxa de cancelamentos de assinaturas. Conhecer essas informações e de suma importância para aplicabilidade de melhorias contínuas no negócio e produtos.
-O Algoritmo  permitirá o monitoramento diário dessa métrica, contínuo e remoto da taxa (churn) pode ser conectado uma arquitetura escalável com power bi, possibilitando que empresários, empregadores, acionistas, etc diversas áreas de negócio, acompanhem o taxa de sáida de clientes da empresa sem a necessidade de cálculos constantes manuais.
+O Algoritmo  permitirá o monitoramento diário dessa métrica, contínuo e remoto da taxa (churn) pode ser conectado uma arquitetura escalável com power bi, possibilitando que empresários, empregadores, acionistas, etc diversas áreas de negócio, acompanhem a taxa de sáida de clientes da empresa sem a necessidade de cálculos constantes manuais.
 
 Descrição do projeto de classificação, onde se tem um cliente saindo das plataformas , conectado a outras plataformas ou simplesmente cancelamento desses serviços]![image](https://github.com/TatianaFlorentino/Classificacao/assets/41309689/518eead3-59e2-490b-bccb-325228423f8f)
 </p>
@@ -36,7 +36,7 @@ Descrição do projeto de classificação, onde se tem um cliente saindo das pla
 
 ## Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/camilafernanda/GlicoCare) ou [baixá-lo](https://github.com/camilafernanda/GlicoCare/archive/refs/heads/main.zip).
+Você pode [acessar o código fonte do projeto da funcionalidade 1](https://github.com/TatianaFlorentino/Classificacao) 
 
 ## Tecnologias-utilizadas
 <a href="https://upload.wikimedia.org/wikipedia/commons/c/c3/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="androidStudio" width="40" height="40"/> 
