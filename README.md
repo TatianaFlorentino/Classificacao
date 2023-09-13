@@ -1,4 +1,9 @@
 # Classificacao
+
+
+[Conhecimento Matemática Aplicadas Descomplicadas](https://www.youtube.com/watch?v=MGXfZiviUmI&list=PL755_5GB1qSgUg1QC5NwDJbn2fTF68esk)
+
+
 **Conceito de Classificação**: baseia-se em prever a categoria de uma observação dada. Aqui, procura-se estimar um “classificador” que gere como saída a classificação qualitativa de um dado não observado com base em dados de entrada (que abrangem observações com classificações já definidas).
 
 **Exemplo**: um classificador que utilize dados não observados de um cliente e classifique-o como cliente ou não-cliente, famoso churn de cliente.
