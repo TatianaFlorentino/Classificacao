@@ -72,7 +72,7 @@ Esse projeto passou pelas etapas abaixo
 * 9.  Tradução da perfomance em resultados financeiros 
 * 10. Publicação do modelo em produção na Cloud da Google
 * 11. Storytelling dos resultados ( comunicada no github)
-* 12. Caso a implemntação ocorra em produção haverá um ganho financeiro se a solução fosse implementada.
+* 12. Caso a implementação ocorra em produção haverá um ganho financeiro se a solução fosse implementada.
 
 
 
